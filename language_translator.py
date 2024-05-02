@@ -77,7 +77,7 @@ def main():
         3: "French",
         4: "German",
         5: "Chinese (Simplified)",
-        6: "Chinese (Traditional)",
+        6: "Malayalam",
         7: "Japanese",
         8: "Korean",
         9: "Russian",
